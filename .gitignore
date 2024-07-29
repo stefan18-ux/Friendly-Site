@@ -1,0 +1,12 @@
+.env
+venv
+venv*/
+venv/
+bin
+include
+lib
+lib64
+*.pyc
+__pycache__
+instance
+friends.db
